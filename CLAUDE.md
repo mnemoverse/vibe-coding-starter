@@ -136,6 +136,7 @@ Reviewing code?
 | [Incident](.claude/skills/incident/SKILL.md) | Production incident response | `/incident` |
 | [PR Preparation](.claude/skills/pr-preparation/SKILL.md) | Before creating PR or commit | `/pr-prep` |
 | [Reflect](.claude/skills/reflect/SKILL.md) | After PR review, bug fix, or incident — improve the system | `/reflect` |
+| [Tune](.claude/skills/tune/SKILL.md) | Audit & improve agent configuration (CLAUDE.md, rules, skills) | `/tune` |
 
 ---
 
@@ -147,6 +148,7 @@ Reviewing code?
 - Never claim code exists without reading it first (see [verification protocol](.claude/protocols/verification-first.md))
 - Never skip tests for changed logic
 - Never commit secrets, credentials, or API keys
+- Never use magic numbers in algorithms without config extraction (see [algorithmic fidelity protocol](.claude/protocols/algorithmic-fidelity.md))
 
 ## Known Issues
 
