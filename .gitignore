@@ -1,0 +1,23 @@
+# Symlinks created by setup.sh (recreated on setup)
+.cursorrules
+.windsurfrules
+.clinerules
+GEMINI.md
+CONVENTIONS.md
+.github/copilot-instructions.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/settings.json
+.idea/
+
+# Environment
+.env
+.env.local
+.env.*.local
