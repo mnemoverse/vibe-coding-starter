@@ -275,6 +275,9 @@ Each skill needs: trigger conditions, phased process, quality checklist, and a l
 ## Related
 
 - **[Vibe Coding Companion Pack](https://github.com/mnemoverse/vibe-coding-companion-pack)** — 103 free resources: checklists, prompts, decision trees, templates. [Browse online](https://mnemoverse.github.io/vibe-coding-companion-pack/).
+- **[Mnemoverse](https://mnemoverse.com)** — Spatial AI memory system. Navigable knowledge environments instead of flat text retrieval.
+- **[Mnemoverse Docs](https://mnemoverse.com/docs)** — Architecture documentation for L1-L8 cognitive layers, MCP integration, and research library.
+- **[Eduard Izgorodin on Amazon](https://www.amazon.com/stores/Eduard-Izgorodin/author/B0F58BB7QJ)** — Author of the Vibe Coding Bible and other books on AI-assisted development.
 
 ## License
 
